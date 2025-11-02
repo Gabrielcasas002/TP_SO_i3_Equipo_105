@@ -3,11 +3,19 @@ Nombre: Casas
 Apellido: Gabriel Humberto
 
 
----GAMMA--- 
+---ALFA--- 
 Nombre: Tamara
 Apellido: Cortes
 
 
----ALFA--- 
+---GAMMA--- 
 Nombre: Fausto
 Apellido: Durzo
+
+
++++++++++++++++++++++++++++++++++++++
+
+Informacion de Alfa:
+   Dirección IPv6 . . . . . . . . . . : 
+   time
+	La hora actual es: 15:40:06,77
