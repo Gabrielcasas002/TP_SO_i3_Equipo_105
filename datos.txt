@@ -13,8 +13,3 @@ Nombre: Fausto
 Apellido: Durzo
 
 
-+++++++++++++++++++++++++++++++++++++
-
-Informacion de Alfa:
- Dirección IPv6 . . . . . . . . . . :2802:8010:b1c4:1901:c226:bdab:9a25:e14      
- time: La hora actual es: 15:40:06,77
