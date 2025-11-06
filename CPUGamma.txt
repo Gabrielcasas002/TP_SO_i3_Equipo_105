@@ -1,0 +1,110 @@
+Nombre de host:                            DESKTOP-BG0PMEQ
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versión del sistema operativo:             10.0.19045 N/D Compilación 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propiedad de:                              N/D
+Organización registrada:                   N/D
+Id. del producto:                          00330-80000-00000-AA590
+Fecha de instalación original:             9/10/2023, 23:10:23
+Tiempo de arranque del sistema:            4/11/2025, 13:42:31
+Fabricante del sistema:                    Gigabyte Technology Co., Ltd.
+Modelo el sistema:                         H310M H 2.0
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2904 Mhz
+Versión del BIOS:                          American Megatrends Inc. F11, 8/3/2019
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume3
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         en-us;Inglés (Estados Unidos)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria física:          16.329 MB
+Memoria física disponible:                 7.628 MB
+Memoria virtual: tamaño máximo:            18.761 MB
+Memoria virtual: disponible:               6.873 MB
+Memoria virtual: en uso:                   11.888 MB
+Ubicación(es) de archivo de paginación:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-BG0PMEQ
+Revisión(es):                              54 revisión(es) instaladas.
+                                           [01]: KB5066130
+                                           [02]: KB5028853
+                                           [03]: KB4562830
+                                           [04]: KB4577586
+                                           [05]: KB4580325
+                                           [06]: KB5003791
+                                           [07]: KB5011048
+                                           [08]: KB5012170
+                                           [09]: KB5015684
+                                           [10]: KB5066791
+                                           [11]: KB5006753
+                                           [12]: KB5007273
+                                           [13]: KB5011352
+                                           [14]: KB5011651
+                                           [15]: KB5014032
+                                           [16]: KB5014035
+                                           [17]: KB5014671
+                                           [18]: KB5015895
+                                           [19]: KB5016705
+                                           [20]: KB5018506
+                                           [21]: KB5020372
+                                           [22]: KB5022924
+                                           [23]: KB5023794
+                                           [24]: KB5025315
+                                           [25]: KB5026879
+                                           [26]: KB5028318
+                                           [27]: KB5028380
+                                           [28]: KB5029709
+                                           [29]: KB5031539
+                                           [30]: KB5032392
+                                           [31]: KB5032907
+                                           [32]: KB5034224
+                                           [33]: KB5036447
+                                           [34]: KB5037018
+                                           [35]: KB5037240
+                                           [36]: KB5037995
+                                           [37]: KB5039336
+                                           [38]: KB5040565
+                                           [39]: KB5041579
+                                           [40]: KB5041581
+                                           [41]: KB5043935
+                                           [42]: KB5043130
+                                           [43]: KB5046823
+                                           [44]: KB5050388
+                                           [45]: KB5050111
+                                           [46]: KB5052916
+                                           [47]: KB5054682
+                                           [48]: KB5058526
+                                           [49]: KB5059504
+                                           [50]: KB5063706
+                                           [51]: KB5063261
+                                           [52]: KB5063979
+                                           [53]: KB5066790
+                                           [54]: KB5005699
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek Gaming GbE Family Controller
+                                                 Nombre de conexión: Ethernet
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.12
+                                           [02]: Famatech Radmin VPN Ethernet Adapter
+                                                 Nombre de conexión: Radmin VPN
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 26.26.117.75
+                                                 [02]: fe80::c77d:3d70:b98b:3212
+                                                 [03]: fdfd::1a1a:754b
+                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::36ce:29f8:5324:dd8e
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: Sí
+                                           Se habilitó la virtualización en el firmware: Sí
+                                           Traducción de direcciones de segundo nivel: Sí
+                                           La prevención de ejecución de datos está disponible: Sí
