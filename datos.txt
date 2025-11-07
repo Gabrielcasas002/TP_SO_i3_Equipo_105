@@ -6,8 +6,8 @@ Apellido: Gabriel Humberto
 ---ALFA--- 
 Nombre: Tamara
 Apellido: Cortes
-
-
+La hora actual es:  9:53:08,13
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.37
 ---GAMMA--- 
 Nombre: Fausto
 Apellido: Durzo
