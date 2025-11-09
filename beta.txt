@@ -1,0 +1,41 @@
+---BETA--- 
+Nombre: Casas
+Apellido: Gabriel Humberto
+Hora: 00:44:06 
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:553:421:7002:a78b:dc2a:9c47
+   Dirección IPv6 . . . . . . . . . . : 2800:810:553:421:f906:4dd7:1bee:e76d
+   Dirección IPv6 temporal. . . . . . : 2800:810:553:421:4972:fd2:5a57:5cdf
+   Vínculo: dirección IPv6 local. . . : fe80::ff6c:666b:c4bb:9285%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.30
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::22b8:2bff:fe2f:a539%17
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::ba04:c65c:8aab:d98a%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
