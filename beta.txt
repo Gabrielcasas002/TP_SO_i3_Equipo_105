@@ -80,3 +80,40 @@ Adaptador de LAN inalámbrica Wi-Fi:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::a28a:6ff:fe40:baf0%7
                                        192.168.1.1
+--GAMMA--
+Nombre: Fausto
+Apellido: Durzo
+Hora: 19:19:20
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfd::1a1a:754b
+   Vínculo: dirección IPv6 local. . . : fe80::c77d:3d70:b98b:3212%16
+   Dirección IPv4. . . . . . . . . . . . . . : 26.26.117.75
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.12
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::36ce:29f8:5324:dd8e%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:34e4:6f7e:1c63:fbd:4141:e34c
+   Vínculo: dirección IPv6 local. . . : fe80::1c63:fbd:4141:e34c%12
+   Puerta de enlace predeterminada . . . . . :
