@@ -42,4 +42,7 @@ F)¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 ---ALFA--- 
 
 G)¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
--
+git clone --branch Casas https://github.com/Gabrielcasas002/TP_SO_i3_Equipo_105.git
+git add .
+git commit "Ejercicio 8 - ALFA"
+git push
